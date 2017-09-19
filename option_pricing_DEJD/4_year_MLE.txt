@@ -1,0 +1,2328 @@
+        eta_d = 40.1
+        eta_u = 1000
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[20] = 2469.88
+
+        eta_d = 40.1471
+        eta_u = 1000
+     lambda_d = 0.397222
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.00154848
+ret[21] = 2030
+
+        eta_d = 39.8792
+        eta_u = 1000
+     lambda_d = 0.001
+     lambda_u = 0.400994
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[22] = 2464.82
+
+        eta_d = 55.0184
+        eta_u = 980.73
+     lambda_d = 0.0837098
+     lambda_u = 0.0845667
+           mu = 3.92933e-05
+            s = 1006
+        sigma = 0.00131273
+ret[23] = 1839.04
+
+        eta_d = 35.1546
+        eta_u = 960.441
+     lambda_d = 0.001
+     lambda_u = 0.0335503
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[24] = 2469.19
+
+        eta_d = 39.2259
+        eta_u = 994.176
+     lambda_d = 0.107407
+     lambda_u = 0.105975
+           mu = 4.14186e-05
+            s = 1006
+        sigma = 0.00288351
+ret[25] = 1386.83
+
+        eta_d = 40.3477
+        eta_u = 1000
+     lambda_d = 0.001
+     lambda_u = 0.0199151
+           mu = 2.80166e-05
+            s = 1006
+        sigma = 0.00344647
+ret[26] = 1279.11
+
+        eta_d = 18.7064
+        eta_u = 1000
+     lambda_d = 0.001
+     lambda_u = 0.227094
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[27] = 2465.99
+
+        eta_d = 20.2713
+        eta_u = 1000
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[28] = 2469.66
+
+        eta_d = 39.2886
+        eta_u = 993.51
+     lambda_d = 0.001
+     lambda_u = 0.00634029
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[29] = 2469.75
+
+        eta_d = 32.0311
+        eta_u = 1000
+     lambda_d = 0.001
+     lambda_u = 0.0600707
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[30] = 2468.56
+
+        eta_d = 41.5918
+        eta_u = 998.073
+     lambda_d = 0.00927098
+     lambda_u = 0.00935667
+           mu = 1.29293e-05
+            s = 1006
+        sigma = 0.00103127
+ret[31] = 2413.49
+
+        eta_d = 36.9705
+        eta_u = 997.509
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[32] = 2469.86
+
+        eta_d = 40.1325
+        eta_u = 1000
+     lambda_d = 0.001
+     lambda_u = 0.00348533
+           mu = 1.23673e-05
+            s = 1006
+        sigma = 0.00132145
+ret[33] = 2210.77
+
+        eta_d = 44.1
+        eta_u = 1000
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[34] = 2469.9
+
+        eta_d = 43.6802
+        eta_u = 1000
+     lambda_d = 0.001
+     lambda_u = 0.0407791
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[35] = 2469.02
+
+        eta_d = 44.1
+        eta_u = 1000
+     lambda_d = 0.0400187
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.00108806
+ret[36] = 2393.12
+
+        eta_d = 43.0234
+        eta_u = 1000
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[37] = 2469.9
+
+        eta_d = 43.9777
+        eta_u = 1000
+     lambda_d = 0.001
+     lambda_u = 0.00161669
+           mu = 1.05874e-05
+            s = 1006
+        sigma = 0.00107976
+ret[38] = 2399.58
+
+        eta_d = 45.1
+        eta_u = 1000
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[39] = 2469.91
+
+        eta_d = 44.6789
+        eta_u = 999.53
+     lambda_d = 0.001
+     lambda_u = 0.00138697
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[40] = 2469.9
+
+        eta_d = 45.7194
+        eta_u = 999.872
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[41] = 2469.91
+
+        eta_d = 45.2455
+        eta_u = 999.666
+     lambda_d = 0.00194976
+     lambda_u = 0.0019596
+           mu = 1.03364e-05
+            s = 1006
+        sigma = 0.00100359
+ret[42] = 2463.64
+
+        eta_d = 45.9212
+        eta_u = 999.514
+     lambda_d = 0.001
+     lambda_u = 0.00580829
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[43] = 2469.8
+
+        eta_d = 45.7542
+        eta_u = 999.558
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[44] = 2469.91
+
+        eta_d = 45.6941
+        eta_u = 999.574
+     lambda_d = 0.00241791
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.0010032
+ret[45] = 2467.06
+
+        eta_d = 45.9114
+        eta_u = 999.541
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[46] = 2469.91
+
+        eta_d = 45.8243
+        eta_u = 999.561
+     lambda_d = 0.001
+     lambda_u = 0.00102776
+           mu = 1.00264e-05
+            s = 1006
+        sigma = 0.00100359
+ret[47] = 2466.65
+
+        eta_d = 45.9636
+        eta_u = 999.455
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[48] = 2469.91
+
+        eta_d = 46.0407
+        eta_u = 999.392
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[49] = 2469.92
+
+        eta_d = 46.1053
+        eta_u = 999.315
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[50] = 2469.92
+
+        eta_d = 46.167
+        eta_u = 999.237
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[51] = 2469.92
+
+        eta_d = 46.3125
+        eta_u = 999.1
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[52] = 2469.92
+
+        eta_d = 46.6005
+        eta_u = 998.822
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[53] = 2469.92
+
+        eta_d = 47.1612
+        eta_u = 998.251
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[54] = 2469.92
+
+        eta_d = 48.3186
+        eta_u = 997.147
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[55] = 2469.93
+
+        eta_d = 50.6033
+        eta_u = 994.906
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[56] = 2469.94
+
+        eta_d = 55.2005
+        eta_u = 990.453
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[57] = 2469.95
+
+        eta_d = 58.2432
+        eta_u = 991.89
+     lambda_d = 0.001
+     lambda_u = 0.124498
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[58] = 2467.65
+
+        eta_d = 55.2005
+        eta_u = 990.453
+     lambda_d = 0.0158053
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.00103341
+ret[59] = 2441.03
+
+        eta_d = 55.9398
+        eta_u = 990.99
+     lambda_d = 0.0643443
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[60] = 2465.32
+
+        eta_d = 54.8826
+        eta_u = 990.127
+     lambda_d = 0.00165058
+     lambda_u = 0.00203444
+           mu = 1.12721e-05
+            s = 1006
+        sigma = 0.001
+ret[61] = 2457.4
+
+        eta_d = 52.9747
+        eta_u = 988.154
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[62] = 2469.95
+
+        eta_d = 55.5124
+        eta_u = 990.601
+     lambda_d = 0.001
+     lambda_u = 0.0136582
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[63] = 2469.67
+
+        eta_d = 56.7986
+        eta_u = 990.376
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[64] = 2469.96
+
+        eta_d = 58.2976
+        eta_u = 990.936
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[65] = 2469.96
+
+        eta_d = 59.862
+        eta_u = 990.6
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[66] = 2469.97
+
+        eta_d = 63.0359
+        eta_u = 991.007
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[67] = 2469.98
+
+        eta_d = 69.412
+        eta_u = 990.455
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[68] = 2469.99
+
+        eta_d = 82.1968
+        eta_u = 989.832
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[69] = 2470.01
+
+        eta_d = 97.0427
+        eta_u = 990.217
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[70] = 2470.03
+
+        eta_d = 121.244
+        eta_u = 1000
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[71] = 2470.04
+
+        eta_d = 111.768
+        eta_u = 997.67
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[72] = 2470.04
+
+        eta_d = 121.244
+        eta_u = 1000
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1.67104e-05
+            s = 1006
+        sigma = 0.001
+ret[73] = 2385.62
+
+        eta_d = 130.969
+        eta_u = 999.206
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[74] = 2470.04
+
+        eta_d = 132.153
+        eta_u = 1000
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[75] = 2470.04
+
+        eta_d = 132.153
+        eta_u = 1000
+     lambda_d = 0.001
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.00104879
+ret[76] = 2429.54
+
+        eta_d = 132.153
+        eta_u = 1000
+     lambda_d = 0.002
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[77] = 2470.06
+
+        eta_d = 132.153
+        eta_u = 1000
+     lambda_d = 0.003
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[78] = 2470.08
+
+        eta_d = 132.153
+        eta_u = 1000
+     lambda_d = 0.005
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[79] = 2470.11
+
+        eta_d = 132.153
+        eta_u = 1000
+     lambda_d = 0.009
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[80] = 2470.17
+
+        eta_d = 132.153
+        eta_u = 1000
+     lambda_d = 0.017
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[81] = 2470.3
+
+        eta_d = 132.153
+        eta_u = 1000
+     lambda_d = 0.033
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[82] = 2470.55
+
+        eta_d = 132.153
+        eta_u = 1000
+     lambda_d = 0.065
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[83] = 2471.01
+
+        eta_d = 132.153
+        eta_u = 1000
+     lambda_d = 0.129
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[84] = 2471.77
+
+        eta_d = 132.153
+        eta_u = 1000
+     lambda_d = 0.257
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[85] = 2472.6
+
+        eta_d = 132.153
+        eta_u = 1000
+     lambda_d = 0.312283
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[86] = 2472.85
+
+        eta_d = 132.153
+        eta_u = 1000
+     lambda_d = 0.412772
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[87] = 2472.74
+
+        eta_d = 132.153
+        eta_u = 1000
+     lambda_d = 0.312283
+     lambda_u = 0.065
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[88] = 2454.91
+
+        eta_d = 132.153
+        eta_u = 1000
+     lambda_d = 0.339816
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[89] = 2472.87
+
+        eta_d = 131.655
+        eta_u = 999.939
+     lambda_d = 0.337534
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[90] = 2472.82
+
+        eta_d = 132.703
+        eta_u = 1000
+     lambda_d = 0.339806
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[91] = 2472.93
+
+        eta_d = 133.804
+        eta_u = 1000
+     lambda_d = 0.339956
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[92] = 2473.05
+
+        eta_d = 136.005
+        eta_u = 1000
+     lambda_d = 0.340918
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[93] = 2473.28
+
+        eta_d = 140.344
+        eta_u = 1000
+     lambda_d = 0.348514
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[94] = 2473.7
+
+        eta_d = 148.863
+        eta_u = 1000
+     lambda_d = 0.371014
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[95] = 2474.49
+
+        eta_d = 165.584
+        eta_u = 1000
+     lambda_d = 0.426606
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[96] = 2475.91
+
+        eta_d = 182.149
+        eta_u = 1000
+     lambda_d = 0.486702
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[97] = 2477.16
+
+        eta_d = 215.219
+        eta_u = 1000
+     lambda_d = 0.608541
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[98] = 2479.12
+
+        eta_d = 279.283
+        eta_u = 1000
+     lambda_d = 0.902461
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[99] = 2482.87
+
+        eta_d = 408.388
+        eta_u = 1000
+     lambda_d = 1.46854
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[100] = 2486.81
+
+        eta_d = 275.301
+        eta_u = 759.298
+     lambda_d = 0.848795
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[101] = 2482.44
+
+        eta_d = 408.388
+        eta_u = 1000
+     lambda_d = 1.46854
+     lambda_u = 0.001
+           mu = 4.22543e-05
+            s = 1006
+        sigma = 0.001
+ret[102] = 1791.18
+
+        eta_d = 447.54
+        eta_u = 995.747
+     lambda_d = 1.72173
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[103] = 2487.12
+
+        eta_d = 448.519
+        eta_u = 1000
+     lambda_d = 1.70129
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[104] = 2487.08
+
+        eta_d = 447.54
+        eta_u = 995.747
+     lambda_d = 1.72173
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.00148193
+ret[105] = 2123.73
+
+        eta_d = 448.024
+        eta_u = 991.614
+     lambda_d = 1.69743
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[106] = 2487.08
+
+        eta_d = 447.533
+        eta_u = 995.748
+     lambda_d = 1.72171
+     lambda_u = 0.0250966
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[107] = 2467.09
+
+        eta_d = 449.629
+        eta_u = 995.672
+     lambda_d = 1.73372
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[108] = 2487.11
+
+        eta_d = 446.912
+        eta_u = 995.8
+     lambda_d = 1.732
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[109] = 2487.14
+
+        eta_d = 445.999
+        eta_u = 995.979
+     lambda_d = 1.73967
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[110] = 2487.16
+
+        eta_d = 444.489
+        eta_u = 997.468
+     lambda_d = 1.75109
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[111] = 2487.2
+
+        eta_d = 440.492
+        eta_u = 1000
+     lambda_d = 1.76027
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[112] = 2487.25
+
+        eta_d = 431.386
+        eta_u = 1000
+     lambda_d = 1.72868
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[113] = 2487.29
+
+        eta_d = 413.137
+        eta_u = 1000
+     lambda_d = 1.66654
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[114] = 2487.37
+
+        eta_d = 405.939
+        eta_u = 962.332
+     lambda_d = 1.62682
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[115] = 2487.36
+
+        eta_d = 401.835
+        eta_u = 1000
+     lambda_d = 1.62903
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[116] = 2487.39
+
+        eta_d = 401.601
+        eta_u = 1000
+     lambda_d = 1.62837
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[117] = 2487.39
+
+        eta_d = 401.482
+        eta_u = 1000
+     lambda_d = 1.62804
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[118] = 2487.39
+
+        eta_d = 401.425
+        eta_u = 1000
+     lambda_d = 1.62788
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[119] = 2487.39
+
+        eta_d = 401.425
+        eta_u = 1000
+     lambda_d = 1.62788
+     lambda_u = 0.0036626
+           mu = 1e-05
+            s = 1006
+        sigma = 0.00101332
+ret[120] = 2473.45
+
+        eta_d = 401.447
+        eta_u = 999.706
+     lambda_d = 1.62749
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[121] = 2487.39
+
+        eta_d = 401.424
+        eta_u = 1000
+     lambda_d = 1.62788
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.00101
+ret[122] = 2478.54
+
+        eta_d = 401.522
+        eta_u = 1000
+     lambda_d = 1.62811
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[123] = 2487.39
+
+        eta_d = 401.385
+        eta_u = 1000
+     lambda_d = 1.6288
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[124] = 2487.39
+
+        eta_d = 401.331
+        eta_u = 1000
+     lambda_d = 1.62964
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[125] = 2487.39
+
+        eta_d = 401.194
+        eta_u = 1000
+     lambda_d = 1.6311
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[126] = 2487.39
+
+        eta_d = 400.862
+        eta_u = 1000
+     lambda_d = 1.63334
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[127] = 2487.4
+
+        eta_d = 400.718
+        eta_u = 1000
+     lambda_d = 1.63707
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[128] = 2487.41
+
+        eta_d = 400.367
+        eta_u = 1000
+     lambda_d = 1.63898
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[129] = 2487.41
+
+        eta_d = 400.114
+        eta_u = 1000
+     lambda_d = 1.64207
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[130] = 2487.42
+
+        eta_d = 399.52
+        eta_u = 1000
+     lambda_d = 1.64743
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[131] = 2487.43
+
+        eta_d = 399.878
+        eta_u = 1000
+     lambda_d = 1.65459
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[132] = 2487.44
+
+        eta_d = 399.158
+        eta_u = 1000
+     lambda_d = 1.65807
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[133] = 2487.45
+
+        eta_d = 398.433
+        eta_u = 1000
+     lambda_d = 1.66147
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[134] = 2487.45
+
+        eta_d = 397.804
+        eta_u = 1000
+     lambda_d = 1.66641
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[135] = 2487.46
+
+        eta_d = 397.054
+        eta_u = 1000
+     lambda_d = 1.66363
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[136] = 2487.46
+
+        eta_d = 397.054
+        eta_u = 1000
+     lambda_d = 1.66363
+     lambda_u = 0.001
+           mu = 1.04e-05
+            s = 1006
+        sigma = 0.001
+ret[137] = 2485.4
+
+        eta_d = 396.878
+        eta_u = 1000
+     lambda_d = 1.66722
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[138] = 2487.47
+
+        eta_d = 396.572
+        eta_u = 1000
+     lambda_d = 1.66979
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[139] = 2487.47
+
+        eta_d = 395.888
+        eta_u = 1000
+     lambda_d = 1.67394
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[140] = 2487.48
+
+        eta_d = 395.451
+        eta_u = 1000
+     lambda_d = 1.68064
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[141] = 2487.48
+
+        eta_d = 394.668
+        eta_u = 1000
+     lambda_d = 1.68224
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[142] = 2487.49
+
+        eta_d = 394.154
+        eta_u = 1000
+     lambda_d = 1.68837
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[143] = 2487.49
+
+        eta_d = 393.388
+        eta_u = 1000
+     lambda_d = 1.69071
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[144] = 2487.5
+
+        eta_d = 392.885
+        eta_u = 1000
+     lambda_d = 1.69692
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[145] = 2487.5
+
+        eta_d = 392.139
+        eta_u = 1000
+     lambda_d = 1.69982
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[146] = 2487.5
+
+        eta_d = 391.704
+        eta_u = 1000
+     lambda_d = 1.70654
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[147] = 2487.51
+
+        eta_d = 390.945
+        eta_u = 1000
+     lambda_d = 1.70904
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[148] = 2487.51
+
+        eta_d = 390.427
+        eta_u = 1000
+     lambda_d = 1.71514
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[149] = 2487.51
+
+        eta_d = 390.427
+        eta_u = 999.871
+     lambda_d = 1.71514
+     lambda_u = 0.001
+           mu = 1.00308e-05
+            s = 1006
+        sigma = 0.00103773
+ret[150] = 2454.29
+
+        eta_d = 390.43
+        eta_u = 999.6
+     lambda_d = 1.71494
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[151] = 2487.51
+
+        eta_d = 390.517
+        eta_u = 999.596
+     lambda_d = 1.71591
+     lambda_u = 0.00105001
+           mu = 1.01514e-05
+            s = 1006
+        sigma = 0.001
+ret[152] = 2486.74
+
+        eta_d = 390.616
+        eta_u = 999.539
+     lambda_d = 1.71455
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[153] = 2487.51
+
+        eta_d = 390.43
+        eta_u = 999.6
+     lambda_d = 1.71494
+     lambda_u = 0.002
+           mu = 1e-05
+            s = 1006
+        sigma = 0.00100003
+ret[154] = 2486.66
+
+        eta_d = 390.386
+        eta_u = 999.65
+     lambda_d = 1.71419
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[155] = 2487.51
+
+        eta_d = 390.342
+        eta_u = 999.74
+     lambda_d = 1.71414
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[156] = 2487.51
+
+        eta_d = 390.372
+        eta_u = 999.827
+     lambda_d = 1.71374
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[157] = 2487.51
+
+        eta_d = 390.298
+        eta_u = 999.856
+     lambda_d = 1.71435
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[158] = 2487.51
+
+        eta_d = 390.227
+        eta_u = 999.813
+     lambda_d = 1.71491
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[159] = 2487.51
+
+        eta_d = 390.069
+        eta_u = 999.73
+     lambda_d = 1.71582
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[160] = 2487.51
+
+        eta_d = 389.754
+        eta_u = 999.597
+     lambda_d = 1.7179
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[161] = 2487.51
+
+        eta_d = 389.483
+        eta_u = 999.887
+     lambda_d = 1.71836
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[162] = 2487.51
+
+        eta_d = 388.893
+        eta_u = 1000
+     lambda_d = 1.72135
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[163] = 2487.51
+
+        eta_d = 387.923
+        eta_u = 999.574
+     lambda_d = 1.72956
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[164] = 2487.52
+
+        eta_d = 385.681
+        eta_u = 998.847
+     lambda_d = 1.74238
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[165] = 2487.53
+
+        eta_d = 384.19
+        eta_u = 1000
+     lambda_d = 1.76146
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[166] = 2487.54
+
+        eta_d = 382.704
+        eta_u = 998.019
+     lambda_d = 1.77177
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[167] = 2487.57
+
+        eta_d = 378.915
+        eta_u = 995.783
+     lambda_d = 1.80246
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[168] = 2487.72
+
+        eta_d = 370.611
+        eta_u = 991.179
+     lambda_d = 1.85242
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[169] = 2488.71
+
+        eta_d = 351.379
+        eta_u = 982.287
+     lambda_d = 1.88637
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[170] = 2488.94
+
+        eta_d = 351.379
+        eta_u = 982.287
+     lambda_d = 1.88637
+     lambda_u = 0.001
+           mu = 1.00004e-05
+            s = 1006
+        sigma = 0.00146123
+ret[171] = 2138.19
+
+        eta_d = 351.373
+        eta_u = 978.512
+     lambda_d = 1.9868
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[172] = 2489.23
+
+        eta_d = 351.373
+        eta_u = 978.512
+     lambda_d = 1.9868
+     lambda_u = 0.00100001
+           mu = 1.52064e-05
+            s = 1006
+        sigma = 0.001
+ret[173] = 2457.54
+
+        eta_d = 348.532
+        eta_u = 981.956
+     lambda_d = 2.01655
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[174] = 2489.13
+
+        eta_d = 351.373
+        eta_u = 978.512
+     lambda_d = 1.9868
+     lambda_u = 0.0278228
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[175] = 2465.85
+
+        eta_d = 350.707
+        eta_u = 977.018
+     lambda_d = 2.00806
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[176] = 2489.19
+
+        eta_d = 350.283
+        eta_u = 978.026
+     lambda_d = 1.98068
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[177] = 2489.2
+
+        eta_d = 351.488
+        eta_u = 979.361
+     lambda_d = 1.97649
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[178] = 2489.23
+
+        eta_d = 352.17
+        eta_u = 979.873
+     lambda_d = 1.96613
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[179] = 2489.25
+
+        eta_d = 353.431
+        eta_u = 981.007
+     lambda_d = 1.94535
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[180] = 2489.26
+
+        eta_d = 353.26
+        eta_u = 982.815
+     lambda_d = 1.92561
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[181] = 2489.22
+
+        eta_d = 352.56
+        eta_u = 981.432
+     lambda_d = 1.94707
+     lambda_u = 0.00909651
+           mu = 1.04171e-05
+            s = 1006
+        sigma = 0.001
+ret[182] = 2480.6
+
+        eta_d = 352.118
+        eta_u = 981.234
+     lambda_d = 1.9438
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[183] = 2489.23
+
+        eta_d = 353.322
+        eta_u = 980.505
+     lambda_d = 1.94238
+     lambda_u = 0.00411688
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[184] = 2486.55
+
+        eta_d = 353.502
+        eta_u = 981.477
+     lambda_d = 1.95008
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[185] = 2489.27
+
+        eta_d = 353.502
+        eta_u = 981.477
+     lambda_d = 1.95008
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.00103353
+ret[186] = 2459.71
+
+        eta_d = 353.303
+        eta_u = 981.25
+     lambda_d = 1.95154
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[187] = 2489.26
+
+        eta_d = 353.453
+        eta_u = 981.409
+     lambda_d = 1.95092
+     lambda_u = 0.001
+           mu = 1.01189e-05
+            s = 1006
+        sigma = 0.001
+ret[188] = 2488.82
+
+        eta_d = 353.632
+        eta_u = 981.444
+     lambda_d = 1.95109
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[189] = 2489.27
+
+        eta_d = 353.689
+        eta_u = 981.478
+     lambda_d = 1.95263
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[190] = 2489.27
+
+        eta_d = 353.807
+        eta_u = 981.389
+     lambda_d = 1.95342
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[191] = 2489.27
+
+        eta_d = 353.987
+        eta_u = 981.296
+     lambda_d = 1.95609
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[192] = 2489.28
+
+        eta_d = 354.272
+        eta_u = 981.1
+     lambda_d = 1.96184
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[193] = 2489.29
+
+        eta_d = 354.674
+        eta_u = 980.949
+     lambda_d = 1.97454
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[194] = 2489.31
+
+        eta_d = 355.22
+        eta_u = 980.066
+     lambda_d = 1.98304
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[195] = 2489.32
+
+        eta_d = 355.455
+        eta_u = 980.291
+     lambda_d = 1.99605
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[196] = 2489.32
+
+        eta_d = 355.243
+        eta_u = 980.315
+     lambda_d = 1.99652
+     lambda_u = 0.001
+           mu = 1.05623e-05
+            s = 1006
+        sigma = 0.0010293
+ret[197] = 2461.4
+
+        eta_d = 354.809
+        eta_u = 980.285
+     lambda_d = 1.99784
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[198] = 2489.3
+
+        eta_d = 355.455
+        eta_u = 980.291
+     lambda_d = 1.99605
+     lambda_u = 0.00435285
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[199] = 2486.39
+
+        eta_d = 355.529
+        eta_u = 980.611
+     lambda_d = 1.99671
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[200] = 2489.32
+
+        eta_d = 355.581
+        eta_u = 980.499
+     lambda_d = 1.9936
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[201] = 2489.32
+
+        eta_d = 355.589
+        eta_u = 980.501
+     lambda_d = 1.98689
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[202] = 2489.32
+
+        eta_d = 355.549
+        eta_u = 980.466
+     lambda_d = 1.98021
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[203] = 2489.33
+
+        eta_d = 355.47
+        eta_u = 980.482
+     lambda_d = 1.98111
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[204] = 2489.32
+
+        eta_d = 355.549
+        eta_u = 980.466
+     lambda_d = 1.98021
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.00101
+ret[205] = 2480.43
+
+        eta_d = 355.611
+        eta_u = 980.395
+     lambda_d = 1.97988
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[206] = 2489.33
+
+        eta_d = 355.731
+        eta_u = 980.266
+     lambda_d = 1.97893
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[207] = 2489.33
+
+        eta_d = 355.762
+        eta_u = 980.204
+     lambda_d = 1.97499
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[208] = 2489.33
+
+        eta_d = 355.694
+        eta_u = 980.214
+     lambda_d = 1.97105
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[209] = 2489.33
+
+        eta_d = 355.762
+        eta_u = 980.204
+     lambda_d = 1.97499
+     lambda_u = 0.001
+           mu = 1.02e-05
+            s = 1006
+        sigma = 0.001
+ret[210] = 2488.59
+
+        eta_d = 355.906
+        eta_u = 980.088
+     lambda_d = 1.97576
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[211] = 2489.33
+
+        eta_d = 356.213
+        eta_u = 979.868
+     lambda_d = 1.97707
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[212] = 2489.34
+
+        eta_d = 356.809
+        eta_u = 979.533
+     lambda_d = 1.98123
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[213] = 2489.35
+
+        eta_d = 358.013
+        eta_u = 978.837
+     lambda_d = 1.98914
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[214] = 2489.38
+
+        eta_d = 360.597
+        eta_u = 977.393
+     lambda_d = 2.0013
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[215] = 2489.43
+
+        eta_d = 365.275
+        eta_u = 975.07
+     lambda_d = 2.03829
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[216] = 2489.51
+
+        eta_d = 370.505
+        eta_u = 971.5
+     lambda_d = 2.04751
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[217] = 2489.6
+
+        eta_d = 380.569
+        eta_u = 966.466
+     lambda_d = 2.10852
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[218] = 2489.71
+
+        eta_d = 398.934
+        eta_u = 955.952
+     lambda_d = 2.19355
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[219] = 2489.84
+
+        eta_d = 399.673
+        eta_u = 955.334
+     lambda_d = 2.17608
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[220] = 2489.87
+
+        eta_d = 407.832
+        eta_u = 950.763
+     lambda_d = 2.20736
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[221] = 2489.9
+
+        eta_d = 413.612
+        eta_u = 947.177
+     lambda_d = 2.22977
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[222] = 2489.9
+
+        eta_d = 412.952
+        eta_u = 947.752
+     lambda_d = 2.22704
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[223] = 2489.9
+
+        eta_d = 412.467
+        eta_u = 947.963
+     lambda_d = 2.22487
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[224] = 2489.9
+
+        eta_d = 413.542
+        eta_u = 947.285
+     lambda_d = 2.21996
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[225] = 2489.92
+
+        eta_d = 415.838
+        eta_u = 945.92
+     lambda_d = 2.21455
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[226] = 2489.94
+
+        eta_d = 420.602
+        eta_u = 943.44
+     lambda_d = 2.22383
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[227] = 2489.95
+
+        eta_d = 425.068
+        eta_u = 940.415
+     lambda_d = 2.23168
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[228] = 2489.96
+
+        eta_d = 429.702
+        eta_u = 937.906
+     lambda_d = 2.2456
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[229] = 2489.95
+
+        eta_d = 425.068
+        eta_u = 940.415
+     lambda_d = 2.23168
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.00127252
+ret[230] = 2268.69
+
+        eta_d = 423.978
+        eta_u = 941.031
+     lambda_d = 2.22794
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[231] = 2489.96
+
+        eta_d = 421.766
+        eta_u = 942.134
+     lambda_d = 2.2195
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[232] = 2489.97
+
+        eta_d = 420.044
+        eta_u = 943.104
+     lambda_d = 2.21468
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[233] = 2489.96
+
+        eta_d = 421.766
+        eta_u = 942.134
+     lambda_d = 2.2195
+     lambda_u = 0.001
+           mu = 1.20341e-05
+            s = 1006
+        sigma = 0.001
+ret[234] = 2479.97
+
+        eta_d = 422.136
+        eta_u = 941.935
+     lambda_d = 2.21773
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[235] = 2489.97
+
+        eta_d = 422.795
+        eta_u = 941.724
+     lambda_d = 2.21027
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[236] = 2489.98
+
+        eta_d = 424.58
+        eta_u = 940.764
+     lambda_d = 2.2086
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[237] = 2489.99
+
+        eta_d = 428.016
+        eta_u = 938.586
+     lambda_d = 2.20853
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[238] = 2490
+
+        eta_d = 431.507
+        eta_u = 936.682
+     lambda_d = 2.21715
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[239] = 2490
+
+        eta_d = 428.016
+        eta_u = 938.586
+     lambda_d = 2.20853
+     lambda_u = 0.0213409
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[240] = 2471.72
+
+        eta_d = 429.696
+        eta_u = 937.439
+     lambda_d = 2.20876
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[241] = 2490
+
+        eta_d = 431.749
+        eta_u = 936.104
+     lambda_d = 2.20813
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[242] = 2490.01
+
+        eta_d = 433.234
+        eta_u = 935.095
+     lambda_d = 2.20653
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[243] = 2490.01
+
+        eta_d = 436.224
+        eta_u = 933.507
+     lambda_d = 2.19418
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[244] = 2490.02
+
+        eta_d = 442.273
+        eta_u = 929.601
+     lambda_d = 2.19078
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[245] = 2490.02
+
+        eta_d = 436.224
+        eta_u = 933.507
+     lambda_d = 2.19418
+     lambda_u = 0.001
+           mu = 1.17147e-05
+            s = 1006
+        sigma = 0.001
+ret[246] = 2481.48
+
+        eta_d = 439.175
+        eta_u = 931.535
+     lambda_d = 2.18794
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[247] = 2490.03
+
+        eta_d = 439.956
+        eta_u = 931.014
+     lambda_d = 2.18604
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[248] = 2490.03
+
+        eta_d = 440.049
+        eta_u = 930.949
+     lambda_d = 2.18571
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[249] = 2490.03
+
+        eta_d = 440.093
+        eta_u = 930.919
+     lambda_d = 2.18556
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[250] = 2490.03
+
+        eta_d = 440.093
+        eta_u = 930.919
+     lambda_d = 2.18556
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.00101
+ret[251] = 2481.11
+
+        eta_d = 440.093
+        eta_u = 930.919
+     lambda_d = 2.18556
+     lambda_u = 0.002
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[252] = 2489.13
+
+        eta_d = 440.077
+        eta_u = 930.897
+     lambda_d = 2.18652
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[253] = 2490.03
+
+        eta_d = 440.109
+        eta_u = 930.929
+     lambda_d = 2.18457
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[254] = 2490.03
+
+        eta_d = 440.029
+        eta_u = 930.8
+     lambda_d = 2.18328
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[255] = 2490.03
+
+        eta_d = 440.105
+        eta_u = 930.804
+     lambda_d = 2.18143
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[256] = 2490.03
+
+        eta_d = 440.387
+        eta_u = 930.617
+     lambda_d = 2.1793
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[257] = 2490.03
+
+        eta_d = 440.7
+        eta_u = 930.404
+     lambda_d = 2.17802
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[258] = 2490.03
+
+        eta_d = 441.048
+        eta_u = 930.206
+     lambda_d = 2.17791
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[259] = 2490.03
+
+        eta_d = 440.7
+        eta_u = 930.404
+     lambda_d = 2.17802
+     lambda_u = 0.001
+           mu = 1.02e-05
+            s = 1006
+        sigma = 0.001
+ret[260] = 2489.16
+
+        eta_d = 440.547
+        eta_u = 930.317
+     lambda_d = 2.17707
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[261] = 2490.03
+
+        eta_d = 440.402
+        eta_u = 930.434
+     lambda_d = 2.17634
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[262] = 2490.03
+
+        eta_d = 440.102
+        eta_u = 930.64
+     lambda_d = 2.17468
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[263] = 2490.03
+
+        eta_d = 439.421
+        eta_u = 931.03
+     lambda_d = 2.1731
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[264] = 2490.03
+
+        eta_d = 438.833
+        eta_u = 931.51
+     lambda_d = 2.17059
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[265] = 2490.03
+
+        eta_d = 438.119
+        eta_u = 931.848
+     lambda_d = 2.17184
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[266] = 2490.03
+
+        eta_d = 437.547
+        eta_u = 932.26
+     lambda_d = 2.16805
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[267] = 2490.04
+
+        eta_d = 436.963
+        eta_u = 932.736
+     lambda_d = 2.17075
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[268] = 2490.04
+
+        eta_d = 437.575
+        eta_u = 932.295
+     lambda_d = 2.1681
+     lambda_u = 0.0034132
+           mu = 1.02037e-05
+            s = 1006
+        sigma = 0.00102413
+ret[269] = 2465.64
+
+        eta_d = 437.782
+        eta_u = 932.004
+     lambda_d = 2.16607
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[270] = 2490.04
+
+        eta_d = 438.119
+        eta_u = 931.815
+     lambda_d = 2.16504
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[271] = 2490.04
+
+        eta_d = 437.823
+        eta_u = 932.063
+     lambda_d = 2.16602
+     lambda_u = 0.001
+           mu = 1.01867e-05
+            s = 1006
+        sigma = 0.001
+ret[272] = 2489.23
+
+        eta_d = 437.676
+        eta_u = 931.846
+     lambda_d = 2.16668
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[273] = 2490.04
+
+        eta_d = 437.781
+        eta_u = 932.004
+     lambda_d = 2.16606
+     lambda_u = 0.001
+           mu = 1.00001e-05
+            s = 1006
+        sigma = 0.00101
+ret[274] = 2481.12
+
+        eta_d = 437.779
+        eta_u = 931.952
+     lambda_d = 2.16692
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[275] = 2490.04
+
+        eta_d = 437.707
+        eta_u = 932.04
+     lambda_d = 2.16567
+     lambda_u = 0.00137954
+           mu = 1.00037e-05
+            s = 1006
+        sigma = 0.001
+ret[276] = 2489.68
+
+        eta_d = 437.845
+        eta_u = 932.076
+     lambda_d = 2.16635
+     lambda_u = 0.001
+           mu = 1e-05
+            s = 1006
+        sigma = 0.001
+ret[277] = 2490.04
+
+9.32004
+4.37782
+  0.001
+2.16607
+    0.1
+    0.1
