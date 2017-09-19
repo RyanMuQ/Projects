@@ -16,7 +16,7 @@ When pricing for options, an essential issue is the accuracy in estimating the p
 
 ## Results
 
-For more details, see [./results.xlsx](Projects/option_pricing_DEJD/results.xlsx).
+For more details, see [./results.xlsx](https://github.com/RyanMuQ/Projects/blob/master/option_pricing_DEJD/results.xlsx?raw=true).
 
 #### Black-Scholes model vs. DEJD model
 
